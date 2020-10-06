@@ -17,3 +17,10 @@ Both kMeans and Winner-Takes-All are based on randomly choosing initial cluster 
 
 ## Documentation
 All the documentation for the functions has been done in the .py files themselves in the form of docstrings. Check these for more rigorous information about how to use the functions.
+
+## General Structure/ Guide to Files:
+
+#. bonus.py: contains code for solving Bonus problem.
+#. cluster_image.py:
+#. clustering_model.py: 
+
