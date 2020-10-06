@@ -3,6 +3,8 @@ Unsupervised Learning and Dimensionality Reduction
 COSC 522, Fall 2020 
 Owen Queen
 
+The writeup for this project can be found [here](http://web.eecs.utk.edu/~hqi/cosc522/project/proj2.htm).
+
 **Report**: The report for this project is in [oqueen_proj2.pdf](https://github.com/owencqueen/ML_Project2/blob/main/oqueen_proj2.pdf).
 
 All visuals are in the visuals folder.
